@@ -1,0 +1,13 @@
+.form_style {
+  padding-left: 15px;
+  width: 200px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.input_container {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
